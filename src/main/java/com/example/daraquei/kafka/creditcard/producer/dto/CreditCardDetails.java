@@ -1,4 +1,4 @@
-package com.example.daraquei.kafka.creditcardproducer.dto;
+package com.example.daraquei.kafka.creditcard.producer.dto;
 
 public class CreditCardDetails {
 	
